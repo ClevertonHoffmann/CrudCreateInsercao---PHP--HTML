@@ -44,7 +44,7 @@
 </head>
 <body style="margin: 20px">
     <form method="post" action="ViewMarca.php">
-            <p><h2 style="text-align:center"> Sistema de Pesquisa de Marcas </h2></p>
+            <p><h2 style="text-align:center"> Sistema de Marcas </h2></p>
             
         <div class="row">
 		

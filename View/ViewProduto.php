@@ -58,7 +58,7 @@
 </head>
 <body style="margin: 20px">
     <form method="post" action="ViewProduto.php">
-            <p><h2 style="text-align:center"> Sistema de Pesquisa de Produtos </h2></p>
+            <p><h2 style="text-align:center"> Sistema de Produtos </h2></p>
             
         <div class="row">
 		

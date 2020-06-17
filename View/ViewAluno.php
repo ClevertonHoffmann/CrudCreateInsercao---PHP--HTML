@@ -55,7 +55,7 @@
 </head>
 <body style="margin: 20px">
     <form method="post" action="ViewAluno.php">
-            <p><h2 style="text-align:center"> Sistema de Pesquisa de Alunos </h2></p>
+            <p><h2 style="text-align:center"> Sistema de Alunos </h2></p>
             
         <div class="row">
 		
